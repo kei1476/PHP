@@ -1,0 +1,11 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorTheme": "GitHub Dark",
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "php.validate.run": "onType",
+}
